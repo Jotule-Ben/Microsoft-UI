@@ -281,3 +281,17 @@ footer img {
   height: 30px;
   margin-left: 20px;
 }
+
+
+
+
+/* @media screen and (max-width:320) {
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+  *{
+    display: block;
+  }
+} */
